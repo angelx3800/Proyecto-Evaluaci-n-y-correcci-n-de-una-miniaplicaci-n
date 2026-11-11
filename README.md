@@ -75,7 +75,7 @@ Abre el PoweShel en la carpeta donde esta el proyecto y ejecuta:
 
 En el powershell
 
-python -m venv .venv
+py -3 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 .\.venv\Scripts\python.exe app.py
 

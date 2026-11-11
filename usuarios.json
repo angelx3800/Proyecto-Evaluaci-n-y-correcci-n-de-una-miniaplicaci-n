@@ -1,0 +1,4 @@
+[
+  { "usuario": "admin", "rol": "admin", "clave_hash": "$argon2id$v=19$m=19456,t=2,p=1$Xeaikq8+8kKC0oaZ4R6MCA$RDvxAHfM1qBb/O4kO80jFEdkG80ghZlETE+YeJ6Nf4o"},
+  {"usuario": "user", "rol": "user", "clave_hash": "$argon2id$v=19$m=19456,t=2,p=1$7VJrN+/WXs4rqsno53g3yw$cC7VAo44m9aAYyT/ts4ZI0hLoDJ8QwpMbTvt8tgjgB8"}
+]
